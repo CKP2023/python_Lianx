@@ -18,7 +18,7 @@ with open(path2,"r") as f:
 
 
 
-#
+# 测试而已
 #
 # path = 'C:\\Users\\chenkp\\Desktop\\out.CSV'
 # with open(path,'r') as csvfile:
